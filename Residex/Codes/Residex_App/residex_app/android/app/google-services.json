@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "472430821939",
+    "project_id": "residex-2ebd8",
+    "storage_bucket": "residex-2ebd8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472430821939:android:754de13913884a47139946",
+        "android_client_info": {
+          "package_name": "com.residex.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472430821939-gfrkmfpfr8ou1f1vhlib7vms20i9d3fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.residex.app",
+            "certificate_hash": "dbc72a3412e164fca09f55dae2616c0782f3b9c7"
+          }
+        },
+        {
+          "client_id": "472430821939-rrmi1g0oqq094ign1oqdherq3i4dm5gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaYVir2IUopKxZvxR-1nKu6rs7QXyFQ_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472430821939-rrmi1g0oqq094ign1oqdherq3i4dm5gl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472430821939-hidtsa0n6hqbvanft7vhih831ddjtdn6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.helloWorld"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
