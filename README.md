@@ -1,4 +1,6 @@
 # Residex — The Shared Living Operating System
+# Link for questionnaire responses collected: https://docs.google.com/spreadsheets/d/10jeovxl1__syRfBeqFp_1-RYJFhZuR7U/edit?usp=sharing&ouid=114163723031397476054&rtpof=true&sd=true
+#Link for PowerPoint Presentation File: https://docs.google.com/presentation/d/1r5MoE1Z7d-xt2aSQY3yknFRID-aDd5Mr/edit?usp=sharing&ouid=114163723031397476054&rtpof=true&sd=true
 
 > **KitaHack 2026** · SDG 11: Sustainable Cities and Communities
 > A full-stack Flutter app that digitises, gamifies, and AI-powers the entire shared-living lifecycle for tenants and landlords in Malaysia.
